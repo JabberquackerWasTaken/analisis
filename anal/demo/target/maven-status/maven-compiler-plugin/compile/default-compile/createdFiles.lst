@@ -1,0 +1,9 @@
+analisis1/jabber/demo/AnalisisApplication.class
+analisis1/jabber/demo/Controladores/UsuarioController.class
+analisis1/jabber/demo/Entidades/Consulta.class
+analisis1/jabber/demo/Repositorios/ConsultaRepositorio.class
+analisis1/jabber/demo/Servicios/UsuarioServicio.class
+analisis1/jabber/demo/Entidades/Usuario.class
+analisis1/jabber/demo/Repositorios/UsuarioRepositorio.class
+analisis1/jabber/demo/Servicios/ConsultaServicio.class
+analisis1/jabber/demo/Controladores/ConsultaController.class
